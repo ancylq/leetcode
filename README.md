@@ -5,7 +5,7 @@
 5. palindromic_substring    找最长的回文
 
 ========== easy ==========
-292. nim_game    
+292. nim_game    两人取1-3个石头子，最后取完的人赢
 416. hamming_distance     汉明距离
 463. island_perimeter    矩阵方块的周长
 476. num_complement    补数
