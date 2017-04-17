@@ -5,9 +5,9 @@
 5. palindromic_substring    找最长的回文
 
 ========== easy ==========
+292. nim_game    
 416. hamming_distance     汉明距离
 463. island_perimeter    矩阵方块的周长
 476. num_complement    补数
 496. next_greater_element    查找大于一个数的值
 500. keyboard_row    计算哪个单词在键盘上的一行上
-
