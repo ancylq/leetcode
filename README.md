@@ -8,6 +8,7 @@
 136. single_number    从成对的列表中找出个数为1的那个数
 292. nim_game    两人取1-3个石头子，最后取完的人赢
 416. hamming_distance     汉明距离
+448. find_disappeared_num    查找连续整数数组中缺少的数 
 463. island_perimeter    矩阵方块的周长
 476. num_complement    补数
 485. max_consecutive_ones 最大的连续的1的个数
