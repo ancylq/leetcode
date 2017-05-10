@@ -1,5 +1,4 @@
 # coding: utf-8
-
 """
 You are given two linked lists representing two non-negative numbers. 
 The digits are stored in reverse order and each of their nodes contain 

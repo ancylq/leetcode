@@ -15,3 +15,4 @@
 496. next_greater_element    查找大于一个数的值
 500. keyboard_row    计算哪个单词在键盘上的一行上
 520. detect _capital    判断给定的word是不是capital
+521. longest_uncommon_subsequence_I    最长非共同子序列
